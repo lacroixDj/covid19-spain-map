@@ -1,0 +1,326 @@
+[
+    {
+        "codigo": "01",
+        "comunidade_autonoma": "Andalucía",
+        "texto": "Andalucía",
+        "geo_point_2d": [
+            37.463274379,
+            -4.5756251361
+        ],
+        
+        "data":{
+            "total_casos_infectados":859,
+            "IA14":10.7,
+            "UCI":21,
+            "fallecidos":19 
+        }
+    },
+
+    {
+        "codigo": "02",
+        "comunidade_autonoma": "Aragón",
+        "texto": "Aragón",
+        "geo_point_2d": [
+            41.5195355493,
+            -0.659846411976
+        ],
+        
+        "data":{
+            "total_casos_infectados":226,
+            "IA14":17.13,
+            "UCI":9,
+            "fallecidos":13 
+        }
+    },
+
+    {
+        "codigo": "03",
+        "comunidade_autonoma": "Asturias",
+        "texto": "Principado de Asturias",
+        "geo_point_2d": [
+            43.292357861,
+            -5.99350932547
+        ],
+        
+        "data":{
+            "total_casos_infectados":242,
+            "IA14":23.46,
+            "UCI":5,
+            "fallecidos":1 
+        }
+    },
+     
+    {
+        "codigo": "04",
+        "comunidade_autonoma": "Illes Balears",
+        "texto": "Islas Baleares",
+        "geo_point_2d": [
+            39.5751889864,
+            2.91229172079
+        ],
+
+        "data":{
+            "total_casos_infectados":112,
+            "IA14":9.31,
+            "UCI":4,
+            "fallecidos":1 
+        }
+
+    },
+
+    {
+        "codigo": "05",
+        "comunidade_autonoma": "Canarias",
+        "texto": "Canarias",
+        "geo_point_2d": [
+            28.339798593,
+            -15.6720984172
+        ],
+
+        "data":{
+            "total_casos_infectados":181,
+            "IA14":8.08,
+            "UCI":17,
+            "fallecidos":3 
+        }
+    },
+
+    {
+        "codigo": "06",
+        "comunidade_autonoma": "Cantabria",
+        "texto": "Cantabria",
+        "geo_point_2d": [
+            43.1975195366,
+            -4.03001213183
+        ], 
+        
+        "data":{
+            "total_casos_infectados":68,
+            "IA14":9.98,
+            "UCI":3,
+            "fallecidos":1 
+        }
+    },
+
+    {
+        "codigo": "07",
+        "comunidade_autonoma": "Castilla y León",
+        "texto": "Castilla y León",
+        "geo_point_2d": [
+            41.7543962127,
+            -4.78188694026
+        ],
+
+        "data":{
+            "total_casos_infectados":668,
+            "IA14":27.38,
+            "UCI":43,
+            "fallecidos":22 
+        }
+    },
+
+    {
+        "codigo": "08",
+        "comunidade_autonoma": "Castilla - La Mancha",
+        "texto": "Castilla - La Mancha",
+        "geo_point_2d": [
+            39.5809896328,
+            -3.00462777209
+        ],
+
+        "data":{
+            "total_casos_infectados":675,
+            "IA14":32.61,
+            "UCI":29,
+            "fallecidos":28 
+        }
+    },
+
+    {
+        "codigo": "09",
+        "comunidade_autonoma": "Catalunya",
+        "texto": "Cataluña",
+        "geo_point_2d": [
+            41.7985537834,
+            1.52905348544
+        ],
+
+        "data":{
+            "total_casos_infectados":1866,
+            "IA14":24.12,
+            "UCI":33,
+            "fallecidos":41 
+        }
+    },
+
+    {
+        "codigo": "10",
+        "comunidade_autonoma": "Comunitat Valenciana",
+        "texto": "Comunidad Valenciana",
+        "geo_point_2d": [
+            39.4015584598,
+            -0.554726732459
+        ],
+
+        "data":{
+            "total_casos_infectados":726,
+            "IA14":14.13,
+            "UCI":40,
+            "fallecidos":22 
+        }
+    },
+
+    {
+        "codigo": "11",
+        "comunidade_autonoma": "Extremadura",
+        "texto": "Extremadura",
+        "geo_point_2d": [
+            39.1914992537,
+            -6.15082693044
+        ],
+
+        "data":{
+            "total_casos_infectados":194,
+            "IA14":17.61,
+            "UCI":3,
+            "fallecidos":6 
+        }
+    },
+
+    {
+        "codigo": "12",
+        "comunidade_autonoma": "Galicia",
+        "texto": "Galicia",
+        "geo_point_2d": [
+            42.7567966298,
+            -7.91056344066
+        ],
+        
+        "data":{
+            "total_casos_infectados":341,
+            "IA14":12.59,
+            "UCI":12,
+            "fallecidos":3 
+        }
+    },
+
+    {
+        "codigo": "13",
+        "comunidade_autonoma": "Madrid",
+        "texto": "Comunidad de Madrid",
+        "geo_point_2d": [
+            40.495082963,
+            -3.71704006617
+        ],
+        
+        "data":{
+            "total_casos_infectados":5637,
+            "IA14":83.55,
+            "UCI":491,
+            "fallecidos":390 
+        }
+    },
+
+    {
+        "codigo": "14",
+        "comunidade_autonoma": "Murcia",
+        "texto": "Región de Murcia",
+        "geo_point_2d": [
+            38.0023679133,
+            -1.48575857531
+        ],
+        
+        "data":{
+            "total_casos_infectados":122,
+            "IA14":8.17,
+            "UCI":4,
+            "fallecidos":0 
+        }
+    },
+
+    {
+        "codigo": "15",
+        "comunidade_autonoma": "Nafarroa",
+        "texto": "Comunidad Foral de Navarra",
+        "geo_point_2d": [
+            42.6672011468,
+            -1.6461117688
+        ], 
+        
+        "data":{
+            "total_casos_infectados":386,
+            "IA14":58.54,
+            "UCI":10,
+            "fallecidos":3 
+        }
+    },
+
+    {
+        "codigo": "16",
+        "comunidade_autonoma": "Euskadi",
+        "texto": "País Vasco",
+        "geo_point_2d": [
+            43.0433630599,
+            -2.61681792149
+        ], 
+        
+        "data":{
+            "total_casos_infectados":973,
+            "IA14":43.30,
+            "UCI":37,
+            "fallecidos":40 
+        }
+    },
+
+    {
+        "codigo": "17",
+        "comunidade_autonoma": "La Rioja",
+        "texto": "La Rioja",
+        "geo_point_2d": [
+            42.2748733608,
+            -2.51703983986
+        ],
+
+        "data":{
+            "total_casos_infectados":419,
+            "IA14":130.05,
+            "UCI":13,
+            "fallecidos":5 
+        }
+    },
+
+    {
+        "codigo": "18",
+        "comunidade_autonoma": "Ceuta",
+        "texto": "Ceuta",
+        "geo_point_2d": [
+            35.8934069863,
+            -5.34342403891
+        ],
+
+        "data":{
+            "total_casos_infectados":1,
+            "IA14":1.18,
+            "UCI":0,
+            "fallecidos":0 
+        }
+    },
+
+    {
+        "codigo": "19",
+        "comunidade_autonoma": "Melilla",
+        "texto": "Melilla",
+        "geo_point_2d": [
+            35.2908279949,
+            -2.95053552337
+        ],
+        
+        "data":{
+            "total_casos_infectados":20,
+            "IA14":23.12,
+            "UCI":0,
+            "fallecidos":0 
+        }
+    }
+
+]

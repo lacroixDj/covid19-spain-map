@@ -1,0 +1,16 @@
+
+.content-header {
+    padding: 5px .5rem;
+}
+
+.card-body{
+    padding: 0px !important;
+}
+
+.content-wrapper {
+    background: #1e1e1e;
+}
+
+.main-header {
+    border-bottom: 1px solid #ffc107;
+}
