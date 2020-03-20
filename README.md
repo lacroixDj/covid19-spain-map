@@ -5,9 +5,9 @@ This is a map dashboard that shows real time statistics about the pandemic Coron
 
 It allows to drill down data by region.
 
-**Preview on [http://covid19.spain.bithelion.com](http://covid19.spain.bithelion.com)**
+**Preview on [https://bithelion.com/covid-19-map/spain/](https://bithelion.com/covid-19-map/spain/)**
 
-!["covid19.spain Presentation"](http://covid19.spain.bithelion.com/dist/img/covid19-spain-map.png "covid19.spain")
+!["https://bithelion.com/covid-19-map/spain/ Presentation"](https://bithelion.com/covid-19-map/spain/dist/img/covid19-spain-map.png "covid19.spain")
 
 It's built (based) on:
 
